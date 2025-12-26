@@ -1,0 +1,15 @@
+# -----------------------------------------
+# Python For DevOps - Dependencies
+# -----------------------------------------
+# This file contains all Python libraries used
+# across Day 01 to Day 10 of the course.
+#
+# Install using:
+# pip install -r requirements.txt
+# -----------------------------------------
+
+
+# Day 01 – System Monitoring
+# Used to fetch CPU, memory, disk metrics
+psutil>=5.9.0
+
