@@ -1,0 +1,3 @@
+# variables 
+
+a = 10
